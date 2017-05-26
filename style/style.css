@@ -1,0 +1,30 @@
+.input {
+	display: block;
+}
+
+.carImg {
+    height: 50px;
+    width: 50px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.carImg:hover {
+    cursor: pointer;
+    height:80%;
+    width: 80%;
+}
+
+table, tr, th {
+    border: 1px solid black;		
+}
+
+table {
+	position: relative;	
+	margin-top: 50px;
+}	
+
+
